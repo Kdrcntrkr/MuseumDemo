@@ -1,0 +1,6 @@
+framework module Pods_Rijksmuseum {
+  umbrella header "Pods-Rijksmuseum-umbrella.h"
+
+  export *
+  module * { export * }
+}
